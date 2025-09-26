@@ -100,12 +100,9 @@
     Add continuous monitoring and model update pipeline.
 
 
-NOTE :- The 'main.py' file has the full pipeline of project while the 'src' folder has different files to achieve particular tasks.
-
 **PROJECT STRUCTURE**
 
-
-MammographicMassesProject/
+|MammographicMassesProject/
 │
 ├── data/                 
 │   └── mammographic_masses.data
@@ -116,7 +113,7 @@ MammographicMassesProject/
 │   ├── evaluate.py      
 │   └── visualize.py      
 │
-├── output/               
+├── visualizations/               
 │
 ├── main.py               
 ├── requirements.txt   
