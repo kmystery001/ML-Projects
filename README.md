@@ -97,6 +97,4 @@
     Hyperparameter tuning & ensemble methods
     Deploy as a web app or integrate with PACS (medical image system)
     Validate with external clinical datasets
-    Add continuous monitoring and model update pipeline.     
-├── requirements.txt   
-└── README.md 
+    Add continuous monitoring and model update pipeline.
