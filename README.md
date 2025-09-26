@@ -97,24 +97,6 @@
     Hyperparameter tuning & ensemble methods
     Deploy as a web app or integrate with PACS (medical image system)
     Validate with external clinical datasets
-    Add continuous monitoring and model update pipeline.
-
-
-**PROJECT STRUCTURE**
-
-|MammographicMassesProject/
-│
-├── data/                 
-│   └── mammographic_masses.data
-|
-├── src/                  
-│   ├── preprocess.py     
-│   ├── train.py          
-│   ├── evaluate.py      
-│   └── visualize.py      
-│
-├── visualizations/               
-│
-├── main.py               
+    Add continuous monitoring and model update pipeline.     
 ├── requirements.txt   
 └── README.md 
