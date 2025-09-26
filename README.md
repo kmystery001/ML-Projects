@@ -107,7 +107,7 @@ MammographicMassesProject/
 │
 ├── data/                 
 │   └── mammographic_masses.data
-│
+|
 ├── src/                  
 │   ├── preprocess.py     
 │   ├── train.py          
