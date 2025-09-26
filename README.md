@@ -101,3 +101,21 @@
 
 
 NOTE :- The 'main.py' file has the full pipeline of project while the 'src' folder has different files to achieve particular tasks.
+
+**PROJECT STRUCTURE**
+MammographicMassesProject/
+│
+├── data/                 
+│   └── mammographic_masses.data
+│
+├── src/                  
+│   ├── preprocess.py     
+│   ├── train.py          
+│   ├── evaluate.py      
+│   └── visualize.py      
+│
+├── output/               
+│
+├── main.py               
+├── requirements.txt   
+└── README.md 
